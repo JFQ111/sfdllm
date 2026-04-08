@@ -1,0 +1,10 @@
+torch>=2.0
+transformers>=4.38
+peft>=0.10
+numpy
+scipy
+scikit-learn
+tqdm
+PyWavelets
+pandas
+accelerate
